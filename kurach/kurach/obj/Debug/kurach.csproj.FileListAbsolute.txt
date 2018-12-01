@@ -1,0 +1,7 @@
+E:\BrSTU\kurach\kurach\bin\Debug\kurach.exe.config
+E:\BrSTU\kurach\kurach\bin\Debug\kurach.exe
+E:\BrSTU\kurach\kurach\bin\Debug\kurach.pdb
+E:\BrSTU\kurach\kurach\obj\Debug\kurach.csprojAssemblyReference.cache
+E:\BrSTU\kurach\kurach\obj\Debug\kurach.csproj.CoreCompileInputs.cache
+E:\BrSTU\kurach\kurach\obj\Debug\kurach.exe
+E:\BrSTU\kurach\kurach\obj\Debug\kurach.pdb
